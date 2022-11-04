@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matias, but you can call me Mat!
 - 👀 I'm a big nerd, so everything related to geek culture, i'm in! I do love combat sports too, and i train boxing.
-- 🌱 I’m currently learning Front-end web development
-- 💞️ I’m looking to collaborate on any prjects that enhances my experiences or knowledge
+- 🌱 I’m currently doing Data Science
+- 💞️ I’m looking to collaborate on any projects that enhances my experiences or knowledge
 - 📫 How to reach me >> matias.marroche98@gmail.com
 
 <!---
